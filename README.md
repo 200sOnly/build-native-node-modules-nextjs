@@ -7,7 +7,7 @@ Next.js.
 
 ## Getting Started
 
-To begin, you'll need to install a build-native-node-modules-nextjs`:
+To begin, you'll need to install a build-native-node-modules-nextjs:
 
 ```bash
 npm install build-native-node-modules-nextjs --save-dev
