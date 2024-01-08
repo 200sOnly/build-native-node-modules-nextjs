@@ -1,5 +1,7 @@
 # build-native-node-modules-nextjs
 
+Forked and updated from https://github.com/eisberg-labs/nextjs-node-loader
+
 This is a custom loader for Webpack that allows you to include native Node.js `.node` modules in your Next.js project.
 It simplifies the process of loading native modules by providing a standardized interface that works seamlessly with
 Next.js.
